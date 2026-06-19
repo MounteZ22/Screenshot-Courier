@@ -28,10 +28,13 @@ dist/
 # Release archives
 *.zip
 
-# Dev docs (not for users)
+# Dev docs and tools (not for users)
 CLAUDE.md
 AGENT.md
 requirements_and_design.md
+STATUS.md
+scripts/generate_icon.py
+scripts/test_email.py
 
 # Screenshot directories (all variants)
 pic/
